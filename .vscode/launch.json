@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LockBinarySearchTree",
+            "request": "launch",
+            "mainClass": "LockBinarySearchTree",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountElements",
+            "request": "launch",
+            "mainClass": "CountElements",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DCP_SolveMaze",
+            "request": "launch",
+            "mainClass": "DCP_SolveMaze",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GroupAnagrams",
+            "request": "launch",
+            "mainClass": "GroupAnagrams",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AutocompleteSystem<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "AutocompleteSystem",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DCP19PaintHouses<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "DCP19PaintHouses",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileExplorer<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "FileExplorer",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HappyNumbers<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "HappyNumbers",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxSubArrValues<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "MaxSubArrValues",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximumProductSubarray<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "MaximumProductSubarray",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MockInterview<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "MockInterview",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MonteCarloPi<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "MonteCarloPi",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RecordLog<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "RecordLog",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SerializeTree<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "SerializeTree",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StaircaseProblem<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "StaircaseProblem",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-breakWords<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "breakWords",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-buyStocks<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "buyStocks",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-productArray<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "productArray",
+            "projectName": "Coding Challenges_e06f219c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-rotateMat<Coding Challenges_e06f219c>",
+            "request": "launch",
+            "mainClass": "rotateMat",
+            "projectName": "Coding Challenges_e06f219c"
+        }
+    ]
+}
